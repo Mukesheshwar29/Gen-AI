@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# StudyMate AI - Educational Assistant
+# Sitemap: https://yourdomain.com/sitemap.xml
